@@ -2,8 +2,8 @@ import { initTRPC } from "@trpc/server";
 
 const posts = [
   {
-    name: "Post about shitting in bed",
-    desc: "Never shittin where im sleepin",
+    name: "Post 1",
+    desc: "ligma balls",
   },
   {
     name: "Post 2",
@@ -14,8 +14,8 @@ const posts = [
     desc: "gdsjlgj ljgl jsdklgj sjg kldsjl",
   },
   {
-    name: "Post about someting",
-    desc: "Never fgkljdfklgjdfskl",
+    name: "Post 4",
+    desc: "skibidi bopbopbop",
   },
 ];
 
