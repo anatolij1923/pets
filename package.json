@@ -1,5 +1,10 @@
 {
   "name": "pets",
   "private": true,
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "pnpm -r --parallel run dev",
+    "types": "pnpm -r run types",
+    "build": "pnpm -r run build"
+  }
 }
