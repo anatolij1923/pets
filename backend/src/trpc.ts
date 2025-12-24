@@ -26,3 +26,5 @@ export const trpcRouter = trpc.router({
     return { posts };
   }),
 });
+
+export type trpcRouter = typeof trpcRouter;
