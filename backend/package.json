@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "@pets/backend",
   "private": true,
   "version": "0.0.0",
   "type": "module",

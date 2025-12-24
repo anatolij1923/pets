@@ -21,3 +21,5 @@ expressApp.use(
 expressApp.listen(3000, () => {
   console.log("Server running on http://localhost:3000");
 });
+
+export type { TrpcRouter } from "./trpc.js";
